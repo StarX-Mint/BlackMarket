@@ -4,7 +4,7 @@
 
 ---
 
-▌📥 [Скачать BlackMarketSmuggler-Free.jar]
+▌📥 [Скачать BlackMarketSmuggler-Free.jar (https://github.com/StarX-Mint/BlackMarket/releases/tag/plugin)]
 (Совместимость: Spigot 1.21.8+)
 
 BlackMarketSmuggler-Free.jar — это ваша бесплатная точка входа в мир подпольной торговли.
